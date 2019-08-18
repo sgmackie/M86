@@ -1,0 +1,8 @@
+# Build files
+*.pdb
+*.exe
+*.obj
+*.ilk
+
+# Visual Studio
+v15/
